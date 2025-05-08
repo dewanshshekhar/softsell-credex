@@ -40,7 +40,7 @@ SoftSell is a modern, responsive, single-page marketing website built for a fict
 ## 🔧 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/softsell.git
-cd softsell
+git clone https://github.com/dewanshshekhar/softsell-credex.git
+cd softsell-credex
 npm install
 npm run dev
